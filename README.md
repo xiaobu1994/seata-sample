@@ -1,7 +1,7 @@
 # 分别创建三个库 seata_account 、seata_order、seata_storage
 
 
-## seata_account
+## seata_account 
 ```sql
 CREATE TABLE `account_tbl` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
